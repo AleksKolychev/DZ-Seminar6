@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\bin\Debug\net7.0\Taks43.exe
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\bin\Debug\net7.0\Taks43.deps.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\bin\Debug\net7.0\Taks43.runtimeconfig.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\bin\Debug\net7.0\Taks43.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\bin\Debug\net7.0\Taks43.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\refint\Taks43.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\Taks43.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar6\Taks43\obj\Debug\net7.0\ref\Taks43.dll
